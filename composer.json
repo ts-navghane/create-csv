@@ -1,0 +1,17 @@
+{
+  "name": "ts-navghane/create-csv",
+  "description": "Create csv of desired rows in PHP.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tejas Navghane",
+      "email": "ts.navghane@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
